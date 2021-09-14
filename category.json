@@ -1,0 +1,123 @@
+[
+    {
+        "id":1,
+        "category":"Addons"
+    },
+    {
+        "id":2,
+        "category":"Bulbs"
+    },
+    {
+        "id":3,
+        "category":"Bulk Gifts"
+    },
+    {
+        "id":4,
+        "category":"Combo Pack-Seeds"
+    },
+    {
+        "id":5,
+        "category":"Combo Packs-Bulbs"
+	},
+   
+    {
+        "id":6,
+        "category":"Combo Packs-Pebbles"
+    }, 
+    
+    {
+        "id":7,
+        "category":"Combo Packs-Plants"
+    },
+    
+    {
+        "id":8,
+        "category":"Combo Packs-Pots"
+    },
+    
+    {
+        "id":9,
+        "category":"Combo Packs-Tools"
+    },
+    
+    {
+        "id":10,
+        "category":"Garden Kits"
+    },
+    
+    {
+        "id":11,
+        "category":"Gardening Accessories"
+    },
+    
+    {
+        "id":12,
+        "category":"Gardening Tools "
+    },
+    
+    {
+        "id":13,
+        "category":"Gift Card"
+    },
+    
+    {
+        "id":14,
+        "category":"Gifts"
+    },
+    
+    {
+        "id":15,
+        "category":"kokedama"
+    },
+    
+    {
+        "id":16,
+        "category":"Miniature Garden Toys"
+    },
+    
+    {
+        "id":17,
+        "category":"Miniature Gardens"
+    },
+    
+    {
+        "id":18,
+        "category":"Offers"
+    },
+    {
+        "id":19,
+        "category":"Pebbles"
+    },
+    {
+        "id":20,
+        "category":"planter Stands"
+    },
+    {
+        "id":21,
+        "category":"Planters"
+    },
+    {
+        "id":22,
+        "category":"Plants"
+    },
+    {
+        "id":23,
+        "category":"Seed Balls"
+    },
+    {
+        "id":24,
+        "category":"Seeds"
+    },
+    {
+        "id":25,
+        "category":"Soil and Fertilizers"
+    },
+    {
+        "id":26,
+        "category":"Terrariums"
+    },
+    {
+        "id":27,
+        "category":"Workshops"
+    }
+]
